@@ -1,16 +1,19 @@
 ## Hi there 👋
+# 💫 About Me:
+🔭 I’m currently working on - Designing and deploying cloud-native, containerized applications with end-to-end CI/CD pipelines, leveraging Docker, Kubernetes (GKE), Terraform (IaC), and GitHub Actions to deliver scalable, secure, and automated infrastructure.<br>👯 I’m looking to collaborate on - DevOps, Cloud Infrastructure, and Platform Engineering projects, especially involving AWS & GCP, CI/CD automation, Kubernetes workloads, Terraform modules, and cloud migration strategies.<br>🤝 I’m looking for help with - Production-grade Kubernetes, advanced AWS networking (VPC, routing, security), observability, and cost-optimized cloud architectures.<br>🌱 I’m currently learning - AWS in depth, including EC2, VPC, IAM, S3, RDS, ECS, EKS, Lambda, CloudWatch, and AWS-centric CI/CD & security best practices, along with real-world DevOps troubleshooting.<br>💬 Ask me about -  AWS & GCP cloud services, CI/CD with GitHub Actions, Cloud Build & Jenkins, Terraform state & modules, Docker & Kubernetes, Cloud SQL / RDS integrations, and secure cloud deployments.<br>⚡ Fun fact - I enjoy eliminating manual deployments, turning them into fully automated, repeatable DevOps pipelines, and watching infrastructure scale with a single commit 🚀.
 
-<!--
-**jayminsoni05/jayminsoni05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jayminsoni5) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sjaymin187@gmail.com) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) ![SonarQube](https://img.shields.io/badge/SonarQube-black?style=for-the-badge&logo=sonarqube&logoColor=4E9BCD)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=jayminsoni05&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=jayminsoni05&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=jayminsoni05&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=jayminsoni05&icon=0&color=0)](https://visitcount.itsvg.in)
+
+
